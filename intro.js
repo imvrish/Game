@@ -1,3 +1,3 @@
 function playgame(){
-    location.replace("select.html");
+    location.replace("main.html");
 }
